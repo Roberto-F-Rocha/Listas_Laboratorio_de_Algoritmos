@@ -1,1 +1,2 @@
-# Listas_Laborat-rio_de_Algoritmos
+# Lab_Alg-Listas
+# Introdução a Linguagem C
