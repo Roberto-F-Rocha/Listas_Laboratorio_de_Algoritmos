@@ -1,2 +1,2 @@
-# Lab_Alg-Listas
-# Introdução a Linguagem C
+# 5-Listas-Laboratorio_de_Algoritimos
+Estrutura de Repetição FOR
